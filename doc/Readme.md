@@ -1,7 +1,15 @@
 The primary source of documentation is the wiki on github:
 
-https://github.com/mossmann/hackrf/wiki
++-------------------------------------------------
 
-This directory contains supplemental documentation.
+Join my forum and learn more ethical hacking and penetration testing 
 
-(photo jawbreaker-fd0-145436.jpeg by fd0 from https://github.com/fd0/jawbreaker-pictures)
+https://t.me/WhiteHatHacks
+
+Get me at 
+
+alex14324.blogspot.com
+https://t.me/alex14324
+https://github.com/alex14324
+
+-------------------------------------------------------+
